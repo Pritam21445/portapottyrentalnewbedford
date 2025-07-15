@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">If a unit has hand sanitizer, do I still need a separate handwashing station?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While sanitizer is great, handwashing with soap and water is more effective at removing certain types of germs and physical grime. For events with food or children, we highly recommend adding handwashing stations for complete hygiene.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What do you do to control odors, especially in the summer heat?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We use a powerful, non-formaldehyde deodorizing solution in the tank that neutralizes odors at the source. We also include an odor-absorbing disc in each unit, which works to keep the interior fresh.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your cleaning chemicals safe for the environment and for people with sensitivities?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. We have specifically chosen eco-friendly, biodegradable cleaning agents and tank solutions that are powerful on germs but safe for the environment and gentle enough to not cause irritation.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do I need a permit from the city to place a porta potty on my property?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For private property, a permit is typically not required. If the unit needs to be placed on public property, like a street or sidewalk, a permit may be necessary. We can advise you on local regulations.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can you place a unit on a surface that isn't perfectly level, like my driveway?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our drivers are trained to find the most level and stable position possible. We use shims and blocks to ensure the unit is secure and safe to use, even on slight inclines.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
